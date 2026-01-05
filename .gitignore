@@ -59,3 +59,6 @@ dmypy.json
 
 # pyenv
 .python-version
+
+# Config files
+config.py
